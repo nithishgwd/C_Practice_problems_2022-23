@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1663214171 source:e:\practice\day2\day2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaration.h"
+	<assert.h>
+
+1663215903 source:e:\practice\day2\day2\definition.c
+	"declaration.h"
+	<stdio.h>
+	<math.h>
+
+1663298482 e:\practice\day2\day2\declaration.h
+
+1663472838 source:g:\c _program\day2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaration.h"
+	<assert.h>
+
+1663472711 g:\c _program\day2\declaration.h
+
+1663474871 source:g:\c _program\day2\definition.c
+	"declaration.h"
+	<stdio.h>
+	<math.h>
+
