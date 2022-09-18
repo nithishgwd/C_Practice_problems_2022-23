@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663493551 source:g:\c _program\day1\day1\definition.c
+	<stdio.h>
+	<math.h>
+
+1663493606 source:g:\c _program\day1\day1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaration.h"
+	<assert.h>
+
+1663493506 g:\c _program\day1\day1\declaration.h
+
