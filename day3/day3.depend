@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1663746901 source:g:\c _program\day3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"declaration.h"
+
+1663695605 source:g:\c _program\day3\definition.c
+	<stdio.h>
+	"declaration.h"
+
+1663693623 g:\c _program\day3\declaration.h
+
+1663558157 source:f:\day3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"declaration.h"
+
+1663507032 f:\day3\declaration.h
+
+1663558367 source:f:\day3\definition.c
+	<stdio.h>
+	"declaration.h"
+
